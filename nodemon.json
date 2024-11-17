@@ -1,0 +1,8 @@
+{
+    "env" :{
+        "DB_USER" : "akashdevadiga919",
+        "DB_PASSWORD" : "0qMjXFC96ziPOxuV",
+        "DB_NAME" : "Places",
+        "WEB_TOKEN" : "supersecret_dont_share" 
+     }
+}
